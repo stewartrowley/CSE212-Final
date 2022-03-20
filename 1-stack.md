@@ -27,8 +27,6 @@ The different operations in a stacks:
 - `empty()` : It returns an empty stack. You use clear or other operations.
 
 ![This is an image](/Stacks.png)
-
-
 Example of a Stack:
 
 ```python
