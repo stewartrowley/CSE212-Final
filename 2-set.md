@@ -68,8 +68,8 @@ In this problem you will have to demostrate your knowledge of Stacks and how the
 def(set_work):
     '''
     Create a set of items and demonstrate how you can use these operations to create a menu system.
-    Where the user can input what they want to know about the set. Hint use a while loop to show and 
-    display your menu.
+    Where the user can input what they want to know about the set. Show that you can manipulate the set
+    and see how it works. Hint use a while loop to show and display your menu. 
     
     '''
 
