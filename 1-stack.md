@@ -22,7 +22,7 @@ stack = []
 The different operations in a stacks:
 
 - `pop()`  :  Removes what is in the end of the     stack. It has a O(1) performance.
-- `append()` : Adds to the end of the stack. It is also O(1)
+- `push()` : Adds to the end of the stack. It is also O(1)
 - `size()` : It returns what the length of the stack is. You use the len() operation for this. It is also O(1).
 - `empty()` : It returns an empty stack. You use clear or other operations.
 
