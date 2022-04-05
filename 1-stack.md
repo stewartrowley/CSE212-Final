@@ -26,7 +26,7 @@ The different operations in a stacks:
 - `size()` : It returns what the length of the stack is. You use the len() operation for this. It is also O(1).
 - `empty()` : It returns an empty stack. You use clear or other operations.
 
-![This is an image](/Stacks.png)
+![This is an image](/images/Stacks.png)
 Example of a Stack:
 
 ```python

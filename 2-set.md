@@ -25,7 +25,7 @@ The different operations in a stacks:
 - `member(value)` : This is where you can decide if it is in the set. It is also O(1).
 - `size()` : It will show you the size of the set. Like the length of the set. This is also O(1).
 
-![This is an image](/Sets.jpg)
+![This is an image](/images/Sets.jpg)
 Example of a Stack:
 
 ```python
