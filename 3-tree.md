@@ -21,7 +21,7 @@ The different operations in a stacks:
 - `empty(value)` : This is where you can empty the set It is O(1).
 - `size(1)` : It will show you the size of the tree. Like the length of the set. This is also O(1).
 
-![This is an image](/images/tree.png.png)
+![This is an image](/images/tree.png)
 Example of a tree:
 
 ```python
